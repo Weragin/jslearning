@@ -1,0 +1,22 @@
+.text-input{
+    padding: 7px 8px;
+    cursor: text;
+}
+.date-input{
+    padding: 6px 8px;
+    font-family: Arial, serif;
+}
+.add-button{
+    padding: 9px 20px;
+    border: none;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+.remove-button{
+    padding: 7px 12px;
+    border: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
